@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Lucas+Dos+Santos+;I'm+17+years+old;I+from+Brasil,+SP;I+hate+java;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-css&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Lucas dos Santos Top Languages" /> 
-  <img width="35%" height="250px" src="https://github-profile-trophy.vercel.app/?username=lu-css&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img width="60%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dossancto&layout=compact&langs_count=7&theme=dracula&hide=css,html" alt="Lucas dos Santos Top Languages" /> 
+  <img width="35%" height="250px" src="https://github-profile-trophy.vercel.app/?username=dossancto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 ### Tools:
